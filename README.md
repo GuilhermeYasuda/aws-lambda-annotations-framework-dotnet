@@ -89,7 +89,7 @@ public class OrderFunctions
 
 1. Clonar o repositório:
    ```bash
-   git clone [github.com](https://github.com/GuilhermeYasuda/aws-lambda-annotations-framework-dotnet.git)
+   git clone https://github.com/GuilhermeYasuda/aws-lambda-annotations-framework-dotnet.git
    cd aws-lambda-annotations-framework-dotnet
    ```
 
