@@ -9,7 +9,7 @@
   "region": "sa-east-1",
   "configuration": "Release",
   "s3-prefix": "AWSLambdaAnnotations/",
-  "template": "serverless.template",
+  "template": "template.yaml",
   "template-parameters": "",
   "docker-host-build-output-dir": "./bin/Release/lambda-publish"
 }
